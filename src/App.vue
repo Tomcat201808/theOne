@@ -30,13 +30,13 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by 王小翠
+* Inspired by 缘分（其实是王翠）
 *
 *
-* 你好，我是福君
-* 可能你不太懂我，所以
-* 我写一份自我介绍
-* 方便你了解更真实的福君
+* 你好小英，我是福君
+* 一个很喜欢你，但是又不知如何表达喜欢的呆子
+* 作为程序员，我想写一份自我介绍
+* 方便你了解更真实的我
 *
 *
 */
@@ -132,7 +132,7 @@ html{
   background: #ddd;
 }
 `, `/* 最后，
- * 感谢你宝贵的时间，在百忙之中抽空看我的个人简介
+ * 感谢小翠，使得你我相识相知，在茫茫人海之中遇见我
  */
 .styleEditor{
     width:50vw;height:70vh;
@@ -191,7 +191,7 @@ html{
 
 坐标：深圳福田
 
-软件工程师，Java架构师，大数据项目经理
+Java架构师，大数据项目经理，机器学习算法工程师
 
 技能
 ====
@@ -223,10 +223,9 @@ html{
 ----
   - Java:      JVM, Springboot, MyBatis
   - Big Data:  Hadoop, Zookeeper, Hive, Spark, Storm, Flink，Apache Beam
-  - Node.js:   react, cordova, meteor, electron
   - Python:    pandas, numpy, matplotlib,sklearn
   - DataBase:  Oracle, MySQL, GreenPlum, Hbase, Redis
-  - WebServer: tomcat, nginx
+  - WebServer: Tomcat, nginx
   - OS:        CentOS, UNIX, Windows
   - Others:    git, Xmind
 
@@ -257,7 +256,7 @@ html{
 链接
 ====
 
-* [GitHub](https://github.com/tomcat201808)
+* 
 * [微信公众号](概率邦)
 * 
 
@@ -271,13 +270,13 @@ html{
 鸣谢
 ----
 
-* 非常感谢你宝贵的时间，在这里我做一个简单的自我介绍
-* 1. 韦福君，广西贵港市人，生于1988年），已不再年轻[捂脸];
-* 2. 现在在中国银行深圳分行做大数据工作，是我喜欢的工作，目前是965，偶尔加加班；
-* 3. 因有大数据的基础，个人现在在往AI方向发展，期望年底能进入BAT大厂开拓思路。
+* 非常感谢王翠童鞋！感恩你我相遇相知，你于我，独一无二，无人可取代————
+* 1.有幸看到你的执着，仿佛看到了我自己，我们早已是很好的朋友；
+* 2.早已认你是个知己，因为你对人生的不卑不亢、不屈不挠；
+* 3.人生苦短，我未娶你未嫁，我们应该开启一段亲密关系之旅；
+* 4.我们都能成为更好的自己,彼此适配协调,明天会更好,小英是否愿意携手同行？
 * ...
 * 未完待续...
-
 
 
   `
